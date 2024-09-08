@@ -13,4 +13,4 @@ npm install
 
 nano data.txt (isi query)
 
-python3 main.py
+node main.js
